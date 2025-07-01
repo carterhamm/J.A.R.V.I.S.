@@ -1,5 +1,5 @@
-**🤖 J.A.R.V.I.S.
-**
+**🤖 J.A.R.V.I.S.**
+
 Meet J.A.R.V.I.S. (Just A Rather Very Intelligent System) — your personalized AI assistant inspired by Iron Man’s iconic companion. Built using SwiftUI, Firebase, and powerful Foundation Models, J.A.R.V.I.S. brings cutting-edge AI right into your hands, wrapped in a beautifully sleek interface. 🚀
 
 🌟 Key Features:
